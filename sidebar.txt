@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[otz:home|Door43 (otz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-otz|d43-otz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-otz/archive/master.zip|d43-otz.zip]]
+
+**Recent Changes**
+{{changes>ns = otz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/otz|Ethnologue data]]
+
